@@ -1,0 +1,8 @@
+# 14.2
+from sklearn import neighbors
+knn = neighbors.KNeighborsClassifier() #调用KNN的分类器
+knn.fit(train, test)                 #用KNN的分类器进行建模，这里利用的默认的参数，大家可以自行查阅文档
+
+predictedLabel = knn.predict([[25]])
+
+print ("predictedLabel is :" + str(predictedLabel))

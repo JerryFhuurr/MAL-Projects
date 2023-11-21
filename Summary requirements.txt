@@ -1,0 +1,6 @@
+The summaries must include a brief description of:
+the assignment problem
+how the assignment was solved, e.g., data acquisition, data preparation, feature engineering, feature extraction, etc.
+the algorithms that were used to solve the problem.
+the performance of the final model
+a reflection of the learning outcome of solving the assignment.
